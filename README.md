@@ -52,8 +52,13 @@ I'm a system administrator and a developer.
 > Virtualization
 
 <p>
-  <img src="https://img.shields.io/badge/Kubernetes--success?logo=kubernetes"/>
   <img src="https://img.shields.io/badge/Docker--success?logo=docker"/>
+</p>
+
+> Orchestrator
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes--success?logo=kubernetes"/>
 </p>
 
 <!--
