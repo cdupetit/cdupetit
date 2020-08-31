@@ -3,7 +3,7 @@
 > Languages
 
 <img src="https://img.shields.io/badge/TypeScript--success?logo=typescript&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/C%23--success?logo=c sharp&logoColor=239120"/>
+<img src="https://img.shields.io/badge/C%23--success?logo=c%20sharp&logoColor=239120"/>
 <img src="https://img.shields.io/badge/Perl--success?logo=perl&logoColor=39457E"/>
 <img src="https://img.shields.io/badge/HTML5--success?logo=html5"/>
 <img src="https://img.shields.io/badge/Sass--success?logo=sass"/>
@@ -17,8 +17,8 @@
 
 > Editors
 
-<img src="https://img.shields.io/badge/Visual Studio--success?logo=visual studio&logoColor=5C2D91"/>
-<img src="https://img.shields.io/badge/Visual Studio Code--success?logo=visual studio code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Visual Studio--success?logo=visual%20studio&logoColor=5C2D91"/>
+<img src="https://img.shields.io/badge/Visual Studio Code--success?logo=visual%20studio%20code&logoColor=007ACC"/>
 
 > Web Servers
 
