@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a system administrator and a developer.
+
+> Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Linux--success?logo=linux"/>
+  <img src="https://img.shields.io/badge/Windows--success?logo=windows&logoColor=0078D6"/>
+</p>
+
 > Languages
 
 <p>
@@ -43,6 +52,7 @@
 > Virtualization
 
 <p>
+  <img src="https://img.shields.io/badge/Kubernetes--success?logo=kubernetes"/>
   <img src="https://img.shields.io/badge/Docker--success?logo=docker"/>
 </p>
 
