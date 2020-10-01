@@ -23,7 +23,7 @@ I'm a system administrator and a developer.
 
 <p>
   <img src="https://img.shields.io/badge/Angular--success?logo=angular&logoColor=DD0031"/>
-  <img src="https://img.shields.io/badge/Redux--success?logo=redux&logoColor=764ABC"/>
+  <img src="https://img.shields.io/badge/ReactiveX--success?logo=reactivex&logoColor=B7178C"/>
   <img src="https://img.shields.io/badge/Node.js--success?logo=node.js"/>
   <img src="https://img.shields.io/badge/NestJS--success?logo=nestjs&logoColor=E0234E"/>
 </p>
